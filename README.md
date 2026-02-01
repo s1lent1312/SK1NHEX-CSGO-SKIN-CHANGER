@@ -1,5 +1,6 @@
 # SK1NHEX-CSGO-SKIN-CHANGER
 SK1NHEX CS2 OPTIMIZED SKIN CHANGER
+Download: Download the zip, extract it and run the setup you need to have steam opened up.
 
 Take your Counter-Strike 2 experience to the next level with SK1NHEX, the sleek, lightweight skinchanger designed specifically for community servers. Customize every weapon in your loadout with ease, rock the rarest knives, or just flex your favorite skins—without affecting performance or gameplay.
 
